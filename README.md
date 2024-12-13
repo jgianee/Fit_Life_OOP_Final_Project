@@ -1,4 +1,15 @@
-![ezgif com-optimize](https://github.com/user-attachments/assets/70fb25a8-16c9-407d-bcc3-38a4c94cfd06)
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/38a9e5f6-af66-4772-ba87-9eb80e0265fe">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/70fb25a8-16c9-407d-bcc3-38a4c94cfd06" alt="Demo GIF" width="500">
+</div>
+
 
 # FitLife: Fitness Class Booking System 
 
@@ -7,6 +18,7 @@
 ---
 
 ## 📋 SUMMARY OF SECTIONS
+
 
 1. **Project Overview** 🌟
 2. **OOP Principles Applied** 💡
@@ -31,7 +43,6 @@ The program handles multiple fitness classes, tracks student bookings, and ensur
 ---
 
 ## 💡 OOP Principles Applied
-# OOP Principles in FitLife System
 
 | **OOP Principle**   | **Description**                                                                                     | **Application in FitLife**                                                                                          |
 |---------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -181,6 +192,11 @@ The documentation includes detailed comments within the code to explain the func
 ---
 
 ## 👨‍💻 Project Developer
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/df6f47c6-e5f6-4ecf-a4be-f81720329343">
+</div>
+
+---
 
 - **Name**: [Janison Giane A. Bustos](https://github.com/jgianee)
 - **Github**: [github.com/jgianee](https://github.com/jgianee)
