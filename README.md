@@ -7,7 +7,8 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/70fb25a8-16c9-407d-bcc3-38a4c94cfd06" alt="Demo GIF" width="500">
+  <img src="
+https://github.com/user-attachments/assets/e0aa8448-6514-4ca6-afc6-500578a177d2">
 </div>
 
 
