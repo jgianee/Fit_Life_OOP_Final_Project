@@ -1,5 +1,4 @@
-
-![466947487_491180520077650_8041545924581532199_n](https://github.com/user-attachments/assets/6f80a687-b111-4537-9350-6d6559573905)
+![ezgif com-optimize](https://github.com/user-attachments/assets/70fb25a8-16c9-407d-bcc3-38a4c94cfd06)
 
 # FitLife: Fitness Class Booking System 
 
