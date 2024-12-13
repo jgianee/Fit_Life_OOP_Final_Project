@@ -6,15 +6,9 @@
 
 ---
 
-<div align="center">
-  <img src="
-https://github.com/user-attachments/assets/e0aa8448-6514-4ca6-afc6-500578a177d2">
-</div>
-
-
-# FitLife: Fitness Class Booking System 
-
-**FitLife** is a console-based Java application designed to manage fitness class bookings efficiently. The project applies Object-Oriented Programming (OOP) principles to offer a modular, scalable, and user-friendly system. **FitLife** integrates the Sustainable Development Goal (SDG) 3: *Good Health and Well-Being*, by promoting healthy lifestyles through access to fitness classes. 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/dbfa0502-6157-4656-bb12-b2b906db7a80" alt="Demo GIF">
+</p>
 
 ---
 
