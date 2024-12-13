@@ -3,9 +3,7 @@
 
 # FitLife: Fitness Class Booking System 
 
-## A Comprehensive Fitness Class Booking System
-
-**FitLife** is a console-based Java application designed to manage fitness class bookings efficiently. The project applies Object-Oriented Programming (OOP) principles to offer a modular, scalable, and user-friendly system. **FitLife** integrates the Sustainable Development Goal (SDG) 3: *Good Health and Well-Being*, by promoting healthy lifestyles through access to fitness classes.
+**FitLife** is a console-based Java application designed to manage fitness class bookings efficiently. The project applies Object-Oriented Programming (OOP) principles to offer a modular, scalable, and user-friendly system. **FitLife** integrates the Sustainable Development Goal (SDG) 3: *Good Health and Well-Being*, by promoting healthy lifestyles through access to fitness classes. 
 
 ---
 
